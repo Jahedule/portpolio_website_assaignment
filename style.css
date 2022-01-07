@@ -1,0 +1,149 @@
+body{
+    font-family: 'Noto Serif', serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+#border{
+    border-left: 2px solid;
+    border-color: red;
+    height: 90px;
+}
+
+#border h1{
+    margin-left: 10px;
+    font-size: 50px;
+    line-height: 20px;
+}
+.orange{
+    color: orange;
+}
+.first-banner{
+    display: flex;
+    margin-bottom: 2px;
+    flex-direction: row;
+}
+.first-one{
+width: 70%;
+padding: 5%;
+}
+.first-one img{
+width: 50%;
+}
+.show-button{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.second{
+    color: orange;
+}
+
+.second-mission{
+    font-size: 30px;
+    text-align: center;
+}
+
+.second-one{
+    width: 70%;
+    padding: 2%;
+    border-radius: 20px;
+    background-color: rgb(238, 235, 234);
+    margin-left: 70px;
+}
+.second-one img{
+    width: 50%;
+}
+.third-one{
+    width: 70%;
+    padding: 2%;
+    border-radius: 20px;
+    background-color: rgb(228, 212, 198);
+    margin-left: 70px;
+}
+.third-one img{
+    width: 50%;
+}
+.fourth-one{
+    width: 70%;
+    padding: 2%;
+    border-radius: 20px;
+    background-color: wheat;
+    margin-left: 70px;
+}
+.fourth-one img{
+    width: 50%;
+}
+.third-banner{
+    display: flex;
+    margin-bottom: 2px;
+    flex-direction: row;
+}
+.third-oneb{
+    width: 80%;
+    padding-top: 5%;
+    padding-right: 2%;
+}
+.third-oneb img{
+    width: 100%;
+}
+
+.third-oneb > h1{
+font-size: 50px;
+}
+.show-button1{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.fourth-banner{
+    display: flex;
+    margin-bottom: 2px;
+    flex-direction: row;
+}
+.fourth-oneb{
+    width: 80%;
+    padding-top: 5%;
+    padding-left: 4%;
+}
+.fourth-oneb img{
+    width: 100%;
+}
+.fifth-oneb{
+    display: flex;
+    flex-direction: row;
+}
+.fifth-oneb{
+    width: 100%;
+    padding-left: 30px;
+}
+.fifth-oneb img{
+    width: 80%;
+    padding: 20px 20px 20px;
+}
+
+.footer{
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 20%;
+}
+.last-part{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: wheat;
+    text-align: center;
+}
+.last{
+    color: red;
+}
+.last-part2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: wheat;
+    text-align: center;
+}
+
